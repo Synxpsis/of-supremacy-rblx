@@ -5,3 +5,4 @@ version tag on production promotion.
 
 ## Unreleased
 - Workspace seeded (no player-facing changes yet).
+- PR flow verified.
